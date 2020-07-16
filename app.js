@@ -15,5 +15,5 @@ app.get("/fall/:thing", (req, res) => {
 });
 
 app.listen(3000, () => {
-    console.log("Server is listening for EJS");
+    console.log("Server is listening for EJS-Embedded JS");
 });
