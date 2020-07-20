@@ -17,7 +17,7 @@ app.get("/", (req, res) => {
 
 app.get("/posts", function (req, res) {
     const posts = [
-        { title: "Post-1", author: "Kafka" },
+        { title: "Post-1", author: "Kafka Frank" },
         { title: "Post-2", author: "Steve Hawkings" },
         { title: "Post-3", author: "Benjamin" },
     ];
